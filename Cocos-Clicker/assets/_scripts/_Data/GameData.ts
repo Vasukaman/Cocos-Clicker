@@ -1,6 +1,6 @@
 import { _decorator, Component } from 'cc';
-import { UpgradeConfig, UpgradeData } from './Upgrades/UpgradeConfig';
-import { ON_ADD_SCORE } from './Upgrades/UpgradeView';
+import { UpgradeConfig, UpgradeData } from './UpgradeConfig';
+import { ON_ADD_SCORE } from '../_Views/UpgradeView';
 const { ccclass, property } = _decorator;
 
 export const ON_SCORE_CHANGED = 'on-score-changed';

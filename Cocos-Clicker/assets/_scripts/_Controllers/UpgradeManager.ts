@@ -1,7 +1,7 @@
 import { _decorator, Component, Node, Prefab, instantiate, Vec3, UIOpacity } from 'cc';
-import { GameData, ON_SCORE_CHANGED, ON_UPGRADE_PURCHASED } from '../GameData';
-import { UpgradeConfig } from './UpgradeConfig';
-import { ON_BUY_UPGRADE_REQUEST, UpgradeView } from './UpgradeView';
+import { GameData, ON_SCORE_CHANGED, ON_UPGRADE_PURCHASED } from '../_Data/GameData';
+import { UpgradeConfig } from '../_Data/UpgradeConfig';
+import { ON_BUY_UPGRADE_REQUEST, UpgradeView } from '../_Views/UpgradeView';
 const { ccclass, property } = _decorator;
 
 @ccclass('UpgradeManager')
