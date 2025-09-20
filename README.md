@@ -1,6 +1,6 @@
 # Cocos Clicker
-A simple, data-driven idle clicker prototype built with Cocos Creator and TypeScript.
 ![Cocos Clicker](https://github.com/user-attachments/assets/86663e68-ebd4-481e-a1e6-7b3b8a24018b)
+A simple, data-driven idle clicker prototype built with Cocos Creator and TypeScript.
 
 Key Features
 Core Clicker Loop: Click to earn score and purchase upgrades.
