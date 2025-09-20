@@ -1,5 +1,8 @@
 # Cocos Clicker
+
 ![Cocos Clicker](https://github.com/user-attachments/assets/86663e68-ebd4-481e-a1e6-7b3b8a24018b)
+
+**[Play the Game on itch.io](https://vasuka.itch.io/orbital-clicker)** 
 
 A simple, data-driven idle clicker prototype built with Cocos Creator and TypeScript.
 
